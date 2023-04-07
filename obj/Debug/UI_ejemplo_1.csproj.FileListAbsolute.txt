@@ -9,3 +9,14 @@ F:\Docencia\2023\ClasesSabado\UI_ejemplo_1\UI_ejemplo_1\obj\Debug\UI_ejemplo_1.c
 F:\Docencia\2023\ClasesSabado\UI_ejemplo_1\UI_ejemplo_1\obj\Debug\UI_ejemplo_1.csproj.CoreCompileInputs.cache
 F:\Docencia\2023\ClasesSabado\UI_ejemplo_1\UI_ejemplo_1\obj\Debug\UI_ejemplo_1.exe
 F:\Docencia\2023\ClasesSabado\UI_ejemplo_1\UI_ejemplo_1\obj\Debug\UI_ejemplo_1.pdb
+D:\PRACTICA 2\Ejemplo1_WindowsForm\bin\Debug\UI_ejemplo_1.exe.config
+D:\PRACTICA 2\Ejemplo1_WindowsForm\bin\Debug\UI_ejemplo_1.exe
+D:\PRACTICA 2\Ejemplo1_WindowsForm\bin\Debug\UI_ejemplo_1.pdb
+D:\PRACTICA 2\Ejemplo1_WindowsForm\obj\Debug\UI_ejemplo_1.csproj.AssemblyReference.cache
+D:\PRACTICA 2\Ejemplo1_WindowsForm\obj\Debug\UI_ejemplo_1.csproj.SuggestedBindingRedirects.cache
+D:\PRACTICA 2\Ejemplo1_WindowsForm\obj\Debug\UI_ejemplo_1.frmPrincipal.resources
+D:\PRACTICA 2\Ejemplo1_WindowsForm\obj\Debug\UI_ejemplo_1.Properties.Resources.resources
+D:\PRACTICA 2\Ejemplo1_WindowsForm\obj\Debug\UI_ejemplo_1.csproj.GenerateResource.cache
+D:\PRACTICA 2\Ejemplo1_WindowsForm\obj\Debug\UI_ejemplo_1.csproj.CoreCompileInputs.cache
+D:\PRACTICA 2\Ejemplo1_WindowsForm\obj\Debug\UI_ejemplo_1.exe
+D:\PRACTICA 2\Ejemplo1_WindowsForm\obj\Debug\UI_ejemplo_1.pdb

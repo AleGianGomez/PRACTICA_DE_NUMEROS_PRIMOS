@@ -52,12 +52,65 @@ namespace UI_ejemplo_1
         {
             return numero1 + numero2;
         }
-        
+
         private void btnPrimos_Click(object sender, EventArgs e)
         {
-           //TODO Dado un rango de valores (numero1 - numero2), mostrar en 
-           //es un mensaje (MessageBox.Show) los numeros primos dentro el trando
-           
+            //TODO Dado un rango de valores (numero1 - numero2), mostrar en 
+            //es un mensaje (MessageBox.Show) los numeros primos dentro el trando
+            int numero1 = Convert.ToInt32(txtN1.Text);
+            int numero2 = Convert.ToInt32(txtN2.Text);
+
+            Primos(numero1, numero2);
+
+        }
+        private void Primos(int numero1, int numero2)
+        {
+            int control = 0;
+            string res = "";
+            if (numero2 > numero1)
+            {
+                for (int i = numero1; i <= numero2; i++)
+                {
+                    control = 0;
+                    if (i > 1)
+                    {
+                        for (int j = 2; j < i; j++)
+                        {
+                            if (i % j == 0)
+                            {
+                                control = 1;
+                                break;
+                            }
+                        }
+                        if (control == 0)
+                        {
+                            res = res + i + "-" ;
+                        }
+                    }
+                }
+            }
+            else if (numero1 > numero2) {
+                for (int i = numero2; i <= numero1; i++)
+                {
+                    control = 0;
+                    if (i > 1)
+                    {
+                        for (int j = 2; j < i; j++)
+                        {
+                            if (i % j == 0)
+                            {
+                                control = 1;
+                                break;
+                            }
+                        }
+                        if (control == 0)
+                        {
+                            res = res + i + "-";
+                        }
+                    }
+                }
+            }  
+            MessageBox.Show("Los numeros primos en ese intervalo son:\n"+ res);
         }
     }
 }
